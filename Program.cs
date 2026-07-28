@@ -22,3 +22,4 @@
 //UpperCase.uppercase();
 //ToggleCase.togglecase();
 //Reverse_String.reverse_str();
+//Palindrome_String.palindrome();
